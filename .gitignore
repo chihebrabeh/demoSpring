@@ -32,3 +32,4 @@ build/
 *.jar
 *.war
 *.zip
+*.cmd
