@@ -18,7 +18,8 @@ public class StudentController {
             new Student(1, "James Bond"),
             new Student(2, "Maria Jones"),
             new Student(3, "Anna Smith"),
-            new Student(4, "Adam Smith") );
+            new Student(4, "Adam Smith")
+    );
 
 
     @GetMapping(path = "{studentId}")
